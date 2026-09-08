@@ -91,3 +91,6 @@ const liberarPokemon = async (id) => {
 }
 export default MiEquipo;
 
+
+
+// holi
