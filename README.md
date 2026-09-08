@@ -16,6 +16,13 @@
   Git/GitHub: Para el control de versiones y almacenamiento del código del proyecto.
   
 • PokéAPI como API externa de consulta.
+
+  Es una API externa que se utiliza para obtener información relacionada
+  con el universo Pokémon. En el proyecto, permite realizar consultas y 
+  obtener datos como nombre, imagen, tipo, habilidades, movimientos y 
+  estadísticas de los Pokémon.
+
+
 • JSON Server como API local de práctica.
 • Explicación de GET, POST, PATCH y DELETE.
 • Instrucciones: npm install, npm run dev y npm run api.
