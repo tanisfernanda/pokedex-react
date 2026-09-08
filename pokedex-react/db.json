@@ -1,0 +1,12 @@
+{
+  "equipo": [
+    {
+      "nombre": "ivysaur",
+      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "nivel": 1,
+      "favorito": false,
+      "id": "mL-gQmHAWYE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
