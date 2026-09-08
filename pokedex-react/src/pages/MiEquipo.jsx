@@ -46,7 +46,7 @@ const liberarPokemon = async (id) => {
 
     return (
         <section>
-            <h2>Mi Equipo Pokémon</h2>
+            <h2>Mis mascotas Favoritas</h2>
 
             {error && <p>{error}</p>}
 

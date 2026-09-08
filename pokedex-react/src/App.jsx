@@ -9,7 +9,7 @@ function App() {
 
     return (
         <main>
-            <h1>Pokédex React</h1>
+            <h1>Adopcion Pokemon</h1>
 
             <Pokedex
                 onPokemonAgregado={() =>

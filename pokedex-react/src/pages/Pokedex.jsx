@@ -43,7 +43,7 @@ function Pokedex({ onPokemonAgregado }) {
 
     return (
         <section>
-            <h2>Buscar Pokémon</h2>
+            <h2></h2>
 
             <input
                 type="text"
@@ -55,7 +55,7 @@ function Pokedex({ onPokemonAgregado }) {
             />
 
             <button onClick={buscar}>
-                Buscar
+                Buscar tu proximo compañero de aventuras 
             </button>
 
             {error && <p>{error}</p>}
@@ -73,7 +73,7 @@ function Pokedex({ onPokemonAgregado }) {
                     <p>Peso: {pokemon.weight}</p>
 
                     <button onClick={agregarPokemon}>
-                        Agregar a mi equipo
+                        Agregar a opciones para adoptar
                     </button>
                 </article>
             )}
