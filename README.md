@@ -31,4 +31,16 @@
   el funcionamiento de una API real.
 
 • Explicación de GET, POST, PATCH y DELETE.
+
+Métodos HTTP utilizados para comunicarse con una API y realizar diferentes operaciones sobre los datos.
+
+GET: Se utiliza para obtener o consultar información.
+Ejemplo: Consultar la lista de Pokémon almacenados en JSON Server.
+POST: Se utiliza para crear y agregar un nuevo registro.
+Ejemplo: Registrar un nuevo Pokémon en la API local.
+PATCH: Se utiliza para modificar parcialmente un registro existente, cambiando únicamente los datos necesarios.
+Ejemplo: Cambiar el tipo o nombre de un Pokémon sin modificar el resto de su información.
+DELETE: Se utiliza para eliminar un registro de la API.
+Ejemplo: Eliminar un Pokémon almacenado en JSON Server.  
+
 • Instrucciones: npm install, npm run dev y npm run api.
