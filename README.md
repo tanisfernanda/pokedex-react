@@ -24,5 +24,11 @@
 
 
 • JSON Server como API local de práctica.
+
+  Es una herramienta utilizada para crear una API REST local a partir de un
+  archivo JSON. En el proyecto, permite practicar el manejo de datos mediante
+  operaciones como consultar, agregar, modificar y eliminar registros, simulando 
+  el funcionamiento de una API real.
+
 • Explicación de GET, POST, PATCH y DELETE.
 • Instrucciones: npm install, npm run dev y npm run api.
