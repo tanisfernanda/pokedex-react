@@ -44,3 +44,12 @@ DELETE: Se utiliza para eliminar un registro de la API.
 Ejemplo: Eliminar un Pokémon almacenado en JSON Server.  
 
 • Instrucciones: npm install, npm run dev y npm run api.
+
+Estos comandos se utilizan para instalar las dependencias y ejecutar el proyecto durante el desarrollo:
+
+npm install
+Instala todas las dependencias y paquetes necesarios para que el proyecto funcione, utilizando la información definida en el archivo package.json.
+npm run dev
+Inicia el servidor de desarrollo de la aplicación. Permite visualizar la página en el navegador y trabajar en ella durante el desarrollo.
+npm run api
+Inicia JSON Server, poniendo en funcionamiento la API local que utiliza el proyecto para consultar, agregar, modificar y eliminar datos.
